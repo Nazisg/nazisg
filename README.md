@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<h3 align="left">GitHub Stats:</h3>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="nazisg" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="nazisg" height="150"/>
