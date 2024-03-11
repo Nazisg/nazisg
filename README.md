@@ -30,6 +30,6 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="nazisg" />
-<img src="https://github-readme-stats.vercel.app/api?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="nazisg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="nazisg" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="nazisg" height="150"/>
 </div>
