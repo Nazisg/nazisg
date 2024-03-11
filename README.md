@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazrin Isgandarova</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="left"> <img src="[https://visitcount.itsvg.in/api?id=nazisg&icon=0&color=0](https://visitcount.itsvg.in)" alt="nazisg" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in" alt="nazisg" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
