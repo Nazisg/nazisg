@@ -8,7 +8,7 @@
 </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="left" display="flex" gap="2">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
