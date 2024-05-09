@@ -12,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,express,nodejs,mongodb,git,github,postman&perline=8,figma"/>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
