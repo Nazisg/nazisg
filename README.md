@@ -1,7 +1,7 @@
 <h1 align="center">Frontend Developer</h1>
 
 <h3 align="left">Languages and Tools:</h3>
-<div><img align="left" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,express,nodejs,mongodb,git,postman,figma"/></div>
+<div align="left"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,express,nodejs,mongodb,git,postman,figma"/></div>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
