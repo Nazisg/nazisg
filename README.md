@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img height="45" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,git,postman,figma"/>
+  <img height="45" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,antd,js,ts,react,redux,nodejs,git,postman,figma"/>
 </div>
 
 <h3 align="left">GitHub Stats:</h3>
