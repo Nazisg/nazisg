@@ -3,7 +3,6 @@
 <div align="left">
   <img heigth="45" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,expressjs,mongodb,git,postman,figma"/>
 </div>
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazisg&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="nazisg" height="150"/>
