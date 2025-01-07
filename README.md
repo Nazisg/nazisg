@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Developer</h1>
+<h1 align="center">Software Tester | Frontend Developer</h1>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img heigth="45" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,vite,redux,nextjs,nodejs,expressjs,mongodb,postgresql,mysql,sequelize,babel,webpack,git,postman,figma"/>
